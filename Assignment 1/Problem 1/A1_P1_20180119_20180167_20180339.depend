@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586610336 source:e:\saeed\second level\second term\data structure\assignments\assignment 1\a1_p1_20180119_20180167_20180339\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<string.h>
+	<BigDecimalInt.h>
+
+1584802771 e:\saeed\second level\second term\data structure\assignments\assignment 1\a1_p1_20180119_20180167_20180339\include\bigdecimalint.h
+	<iostream>
+
+1586610481 source:e:\saeed\second level\second term\data structure\assignments\assignment 1\a1_p1_20180119_20180167_20180339\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<string.h>
+
